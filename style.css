@@ -1,0 +1,80 @@
+/* 
+Header area CSS
+*/
+.header-area {
+    background-color: #2B3035;
+    border-bottom: 1px solid #555;
+}
+
+.header-area .navbar-brand {
+    color: #fff;
+}
+
+.header-area .nav-link.active {
+    color: #fff;
+}
+
+.header-area .nav-link {
+    color: #ccc;
+    margin-left: 25px;
+}
+
+/* 
+Main Area CSS
+*/
+.main-area {
+    padding: 45px 0;
+}
+
+/* 
+product-area CSS
+*/
+.product-area {
+    padding-top: 50px;
+}
+
+.single-product {
+    margin-bottom: 30px;
+    border: 1px solid #ededed;
+    padding: 10px;
+}
+
+.single-product img {
+    width: 100%;
+}
+
+.single-product h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.single-product h5 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.single-product a {
+    display: inline-block;
+    text-decoration: none;
+    color: #2B3035;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 8px 15px;
+    border-radius: 6px;
+}
+
+/* 
+Footer area CSS
+*/
+.footer-area {
+    background-color: #2B3035;
+    text-align: center;
+    padding: 15px 0;
+    border-top: 1px solid #555;
+    margin-top: 100px;
+}
+
+.footer-area p {
+    margin-bottom: 0;
+    color: #fff;
+}
